@@ -1,16 +1,6 @@
-# 🚀 GauravGo Internship – Portfolio Website Project
-
-## 🏢 Organization
-**GauravGo Games Technologies Pvt. Ltd.**  
-30-Day Web Development Internship
-
----
-
-## 📌 Overview
+# 🚀GauravGo Games Technologies Pvt. Ltd.
 
 During this internship, I completed practical web development tasks focused on building, deploying, and showcasing a professional portfolio website. The internship emphasized hands-on implementation and real-world deployment.
-
-
 
 ---
 
